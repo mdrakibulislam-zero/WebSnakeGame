@@ -1,5 +1,5 @@
 ## Web Snake Game:
-This is a simple snake game based on Web which made with HTML, CSS and JavaScript.
+This is a simple snake game based on Web which made with HTML, CSS and JavaScript. It's able to count your score.
 
 
 ## Outcome:
@@ -9,9 +9,9 @@ src="https://github.com/mdrakibulislam-zero/WebSnakeGame/blob/main/Outcome.png" 
 
 
 ## What Have I Done:
-I've made this snake game using HTML, CSS and JavaScript. I've also used modernizr.js for get fast response of browser and I've created another reset.css file for start the game from beginning.
+I've made this snake game using HTML, CSS and JavaScript. I've also used modernizr.js for get the fast response of browser and I've created another reset.css file for start the game from beginning instantly.
 
-Modernizr is a collection of superfast tests – or “detects” as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user.
+Modernizr is a JavaScript library that detects the features available in a user's browser. This lets web pages avoid unsupported features by informing the user their browser isn't supported or loading a polyfill.
 
 
 ## Required Skills:
@@ -21,10 +21,11 @@ Modernizr is a collection of superfast tests – or “detects” as we like to 
 
 
 ## Usage:
-- First of all you need to put the HTML, CSS and JavaScript files in the same folder.
+- First of all you need to download the entire folder.
 - Then open the index.html file in any browser.
-- You're done! Enjoy the game.
-- You need to use arrow keys for control the snake.
+- Use the arrow keys of your keyboard for control the snake.
+- You're done! Enjoy the snake game.
+- You also can play the snake game online by using this <a href="https://mdrakibulislam-zero.github.io/WebSnakeGame/" > link</a>.
 
 
 ## Tutorial:
